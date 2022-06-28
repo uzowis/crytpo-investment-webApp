@@ -1,0 +1,38 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 30 May 2020 16:27:04 at https://onedigitalassetshub.com/index.php +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://onedigitalassetshub.com/index.php -O1 "C:\Users\LAWRENCE\Desktop\COLLINS\ONLINE DIGITAL ASSETS HUB 2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:28:51	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://onedigitalassetshub.com/fonts/glyphicons-halflings-regular.html
+16:28:52	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://onedigitalassetshub.com/fonts/glyphicons-halflings-regular.eot-.html
+16:28:53	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://onedigitalassetshub.com/fonts/glyphicons-halflings-regular.woff2.html
+16:28:54	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://onedigitalassetshub.com/fonts/glyphicons-halflings-regular-2.html
+16:28:56	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://onedigitalassetshub.com/fonts/glyphicons-halflings-regular-3.html
+16:28:57	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://onedigitalassetshub.com/fonts/glyphicons-halflings-regular.svg.html
+16:30:08	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://onedigitalassetshub.com/js/plugins/revolution/assets/gridtile.html
+16:30:10	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://onedigitalassetshub.com/js/plugins/revolution/assets/gridtile_white.html
+16:30:11	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://onedigitalassetshub.com/js/plugins/revolution/assets/gridtile_3x3.html
+16:30:13	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://onedigitalassetshub.com/js/plugins/revolution/assets/gridtile_3x3_white.html
+16:30:14	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://onedigitalassetshub.com/js/plugins/revolution/assets/coloredbg.html
+16:30:15	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://onedigitalassetshub.com/js/plugins/revolution/assets/loader.html
+16:30:16	Error: 	"Not Found" (404) at link https://onedigitalassetshub.com/tawto.js (from https://onedigitalassetshub.com/index.php)
+16:30:16	Error: 	"Forbidden" (403) at link translate.google.com/translate_a/element.js?cb=googleTranslateElementInit (from https://onedigitalassetshub.com/index.php)
+16:31:46	Warning: 	File not parsed, looks like binary: https://onedigitalassetshub.com/fonts/fontawesome-webfont3e6e-v=4.7.0.html
+16:31:46	Warning: 	Warning: store application/octet-stream without scan: C:/Users/LAWRENCE/Desktop/COLLINS/ONLINE DIGITAL ASSETS HUB 2/onedigitalassetshub.com/fonts/fontawesome-webfont3e6e-v=4.7.0.html
+16:31:46	Warning: 	File not parsed, looks like binary: https://onedigitalassetshub.com/js/plugins/revolution/css/openhand.html
+16:31:46	Warning: 	Warning: store application/octet-stream without scan: C:/Users/LAWRENCE/Desktop/COLLINS/ONLINE DIGITAL ASSETS HUB 2/onedigitalassetshub.com/js/plugins/revolution/css/openhand.html
+16:31:46	Warning: 	File not parsed, looks like binary: https://onedigitalassetshub.com/js/plugins/revolution/css/closedhand.html
+16:31:46	Warning: 	Warning: store application/octet-stream without scan: C:/Users/LAWRENCE/Desktop/COLLINS/ONLINE DIGITAL ASSETS HUB 2/onedigitalassetshub.com/js/plugins/revolution/css/closedhand.html
+16:31:47	Error: 	"Not Found" (404) at link https://coinspotraders.com/wp-content/uploads/fevicon.png (from https://onedigitalassetshub.com/user/index)
+16:31:47	Error: 	"Not Found" (404) at link https://coinspotraders.com/fast.fonts.net/cssapi/487b73f1-c2d1-43db-8526-db577e4c822b.css (from https://onedigitalassetshub.com/user/index)
+16:31:54	Error: 	"Not Found" (404) at link https://onedigitalassetshub.com/user/forgot_password (from https://onedigitalassetshub.com/user/index)
+16:31:55	Error: 	"Not Found" (404) at link https://coinspotraders.com/user/img/menu_bg.jpg (from https://onedigitalassetshub.com/user/css/maince5a-version=1589666627.css)
+16:31:55	Error: 	"Not Found" (404) at link https://coinspotraders.com/user/img/cta-pattern-light.png (from https://onedigitalassetshub.com/user/css/maince5a-version=1589666627.css)
+16:31:55	Error: 	"Not Found" (404) at link https://coinspotraders.com/user/img/onboarding-gradient-hor.png (from https://onedigitalassetshub.com/user/css/maince5a-version=1589666627.css)
+16:31:55	Error: 	"Not Found" (404) at link https://coinspotraders.com/user/img/onboarding-gradient-ver.png (from https://onedigitalassetshub.com/user/css/maince5a-version=1589666627.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 51 seconds : 144 links scanned, 134 files written (10538249 bytes overall) [10419064 bytes received at 35804 bytes/sec], 268755 bytes transferred using HTTP compression in 11 files, ratio 43%
+(9 errors, 18 warnings, 0 messages)

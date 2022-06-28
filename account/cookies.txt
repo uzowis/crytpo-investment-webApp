@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+primedividends.com	TRUE	/	FALSE	1999999999	PHPSESSID	6c68d0c258f7dae40bd7fb28e5f70700
+

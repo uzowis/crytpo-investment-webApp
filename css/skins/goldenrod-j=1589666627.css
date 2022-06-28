@@ -1,0 +1,192 @@
+/* =================================================================== */
+/* Goldenrod #daa520
+====================================================================== */
+a,
+h1 > span,
+.projectmanager h3,
+.projectmanager li a,
+.testimonials #quote-carousel h5,
+.services-box-item-content:before,
+.services-box-item-content h2,
+.social-icons ul li a:before,
+.info-map-boxes-item:before,
+.info-map-boxes-item h1,
+.info-map-boxes-item a,
+.services-box-item-cover:before,
+.services-box-item-cover:after,
+#back-top span:before,
+.videopromotion a i,
+.fact-badges h2 span,
+span.heart,
+a.link:hover,
+a.link:focus,
+a.link:active,
+.services .services-box-item-content h2,
+.btn-wrapper a,
+ul.navbar-nav > li.active > a,
+ul.navbar-nav > li > a:hover,
+ul.navbar-nav > li > a:focus,
+ul.navbar-nav > li > a:active,
+.navbar-nav .fa-search:hover,
+ul.navbar-nav > li.open > a,
+ul.navbar-nav > li.open > a:hover,
+ul.navbar-nav > li.open > a:focus,
+ul.navbar-nav > li.open > a:active,
+body.dark ul.navbar-nav > li.open > a,
+body.dark ul.navbar-nav > li.open > a:hover,
+body.dark ul.navbar-nav > li.open > a:focus,
+body.dark ul.navbar-nav > li.open > a:active,
+body.dark .latest-post .post-title a:hover,
+body.dark ul.navbar-nav > li.active > a,
+body.dark ul.navbar-nav > li > a:hover,
+body.dark .navbar-nav .fa-search:hover,
+.portfolio .caption a.title-link:hover h3,
+.latest-post .post-title a:hover,
+.footer .top-footer h4,
+.facts-footer > div h5,
+.footer .bottom-footer p a,
+.footer .top-footer .menu ul li a:hover,
+.about ul.nav.nav-tabs li.active a,
+.banner .breadcrumb>li a:hover,
+body.blog-page .meta span a,
+body.blog-page .meta span i,
+body.blog-page article h4:hover,
+.sidebar ul.nav.nav-tabs li a:hover,
+body.dark .sidebar ul.nav.nav-tabs li a:hover,
+.widget.recent-posts .entry-title a:hover,
+body.dark .widget.recent-posts .entry-title a:hover,
+.comments-list .comment-reply,
+.user-auth > div:nth-child(2) .form-container .form-group a,
+.countdown-amount,
+h4.panel-title a,
+.project .project-navigation nav ul li a,
+.shop-cart .secondary-button,
+.payment .tooltip-text{
+    color: #33f3ff;
+}
+.custom-colorRotatingWords,
+.team .social-icons ul.social li a:hover,
+.team .social-icons ul.social li a:hover:before {
+	color: #daa520 !important;
+}
+.latest-post .post-date,
+.shop-cart .secondary-button:hover,
+.shop-cart .secondary-button:focus,
+.shop-cart .secondary-button:active,
+.bx-wrapper .bx-controls-direction a,
+#carousel-testimonials .carousel-indicators li.active,
+body.dark.blog-page .pagination li.active a:hover,
+body.blog-page .pagination li.active a,
+ul.nav li.dropdown ul.dropdown-menu li a:hover,
+ul.nav li.dropdown ul.dropdown-menu li a:focus,
+ul.nav li.dropdown ul.dropdown-menu li a:active,
+ul.nav li.dropdown ul.dropdown-menu li.active a,
+.pricing-list .popular,
+.pricing-switcher .switch,
+.custom-button,
+.portfolio .nav-pills li:hover,
+.portfolio .nav-pills li.active,
+#back-top a:hover,
+.social-icons ul li a:hover,
+.custom-input-label::before,
+.testimonials #quote-carousel .carousel-indicators .active,
+.custom-form-group  .input-group .input-group-addon,
+.submit-form button,
+body.double-diagonal .about::before,
+body.double-diagonal .faq::before,
+body.double-diagonal .terms::before,
+body.double-diagonal .shop-cart::before,
+body.double-diagonal .shop-checkout::before,
+body.double-diagonal .project::before,
+body.double-diagonal .services::before, 
+body.double-diagonal .pricing::before, 
+body.double-diagonal .portfolio::before,
+body.double-diagonal .team::before,
+body.double-diagonal .blog::before,
+body.double-diagonal .contact::before,
+body.double-diagonal .logos::before,
+.team-member:hover .team-member-caption,
+.btn-wrapper a:hover,
+.widget-tags ul > li a:hover   {
+    background-color: #33f3ff;
+}
+body.blog-page .pagination li.active a,
+.widget-tags ul > li a:hover,
+.shop-cart .secondary-button {
+	border:1px solid #33f3ff;
+}
+.about-right-side .full-image-container.hovered:before  {
+	border-left: 5px solid #33f3ff;
+}
+.projectmanager blockquote,
+#quote-carousel .carousel-indicators .active {
+    border-color: #33f3ff;
+}
+.projectmanagerpicture {
+    border: 12px solid #33f3ff;
+}
+.portfolio .nav-pills li {
+    border: 2px solid #33f3ff;
+}
+#back-top a {
+    border: 2px solid #33f3ff;
+}
+.team-member-caption {
+	border-top: 3px solid #33f3ff;
+}
+.social-icons ul li a{
+    border: 3px solid #33f3ff;
+}
+.footer .social-icons ul li a {
+    border: 2px solid #33f3ff;
+}
+.banner hr, body.dark .banner hr {
+	border-top: 5px solid #33f3ff;
+}
+.preloader .loader {
+  background-image: url("../../img/preloaders/preloader-goldenrod-light.svg");
+  background-repeat:no-repeat;
+  background-position: 50% 50%;
+}
+body.dark .preloader .loader {
+  background-image: url("../../img/preloaders/preloader-goldenrod-dark.svg");
+  background-repeat:no-repeat;
+  background-position: 50% 50%;
+}
+.btn-wrapper a {
+	border: 4px solid #33f3ff;
+}
+@media (max-width: 991px) {
+	ul.nav li.dropdown ul.dropdown-menu li.active a,
+	body.dark ul.nav li.dropdown ul.dropdown-menu li.active a	{
+		background:transparent !important;
+		color:#daa520 !important;
+	}
+}
+@media (max-width:767px){
+	.social-icons ul li a {
+		border: 2px solid #33f3ff;
+	}
+	.about-right-side .full-image-container.hovered:before  {
+		border-top: 5px solid #33f3ff;
+		border-left:none;
+	}
+	.rtl-version .about-right-side .full-image-container.hovered:before {
+		border-right:none;
+	}
+}
+@media (max-width:576px){
+	.about-content ul.nav.nav-tabs li.active a {
+		background :#33f3ff;
+		color:#fff;
+	}
+}
+
+.btn-outline {
+    border: 2px solid #33f3ff;
+    background-color: transparent;
+}
+
+.color-text{
+ color: #33f3ff !important;
+}

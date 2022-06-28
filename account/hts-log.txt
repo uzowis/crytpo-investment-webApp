@@ -1,0 +1,19 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 30 May 2020 17:54:00 at https://primedividends.com/user/account +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://primedividends.com/user/account -O1 "C:\Users\LAWRENCE\Desktop\COLLINS\ACCOUNT" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:55:27	Error: 	"Not Found" (404) at link https://coinspotraders.com/wp-content/uploads/fevicon.png (from https://primedividends.com/user/index)
+17:55:27	Error: 	"Not Found" (404) at link https://coinspotraders.com/fast.fonts.net/cssapi/487b73f1-c2d1-43db-8526-db577e4c822b.css (from https://primedividends.com/user/index)
+17:55:36	Error: 	"Not Found" (404) at link https://primedividends.com/user/forgot_password (from https://primedividends.com/user/index)
+17:55:36	Error: 	"Not Found" (404) at link https://primedividends.com/tawto.js (from https://primedividends.com/user/index)
+17:55:36	Error: 	"Not Found" (404) at link https://coinspotraders.com/user/img/menu_bg.jpg (from https://primedividends.com/user/css/maince5a-version=1589666627.css)
+17:55:36	Error: 	"Not Found" (404) at link https://coinspotraders.com/user/img/cta-pattern-light.png (from https://primedividends.com/user/css/maince5a-version=1589666627.css)
+17:55:36	Error: 	"Not Found" (404) at link https://coinspotraders.com/user/img/onboarding-gradient-hor.png (from https://primedividends.com/user/css/maince5a-version=1589666627.css)
+17:55:36	Error: 	"Not Found" (404) at link https://coinspotraders.com/user/img/onboarding-gradient-ver.png (from https://primedividends.com/user/css/maince5a-version=1589666627.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 43 seconds : 50 links scanned, 41 files written (3354134 bytes overall) [3359629 bytes received at 32617 bytes/sec], 10601 bytes transferred using HTTP compression in 2 files, ratio 30%
+(8 errors, 0 warnings, 0 messages)
